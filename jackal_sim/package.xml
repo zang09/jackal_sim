@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>jackal_sim</name>
+  <version>1.0.0</version>
+  <description>
+    Meta package for jackal simulator with sensors
+  </description>
+  <maintainer email="haebum.j@stryx.co.kr">Haebeom Jung</maintainer>
+  <author>Haebum Jung</author>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>
